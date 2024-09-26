@@ -16,7 +16,7 @@ function About() {
              bookings, and manage your profile.
         </p>
         <div className="signature"></div>
-        <h6>keshav, managing director</h6>
+        <h6>Vikas, managing director</h6>
       </div>
       <div className="about-img"></div>
     </div>
